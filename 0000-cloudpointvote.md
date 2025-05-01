@@ -1,14 +1,14 @@
 # HIP Template (Give it a title here but do not allocate a number, maintainer will allocate a number)
 
-- Author(s): <!-- your GitHub @username -->
-- Start Date: <!-- fill me in with today's date, YYYY-MM-DD -->
-- Category: <!-- economic, technical, meta -->
-- Original HIP PR: <!-- leave this empty; maintainer will fill in ID of this pull request -->
+- Author(s):  @bredyhopi2
+- Start Date: <!-- fill me in with today's date, YYYY-MM-DD --> 2025/5/1
+- Category: <!-- economic, technical, meta --> foundation, meta
+- Original HIP PR: <!-- leave this empty; maintainer will fill in ID of this pull request --> 
 - Tracking Issue: <!-- leave this empty; maintainer will create a discussion issue -->
 
 ## Summary
 
-One paragraph explanation of the proposal.
+Allow voting with cloud points
 
 <!-- Read the content requests in all sections before starting to write any section. -->
 
