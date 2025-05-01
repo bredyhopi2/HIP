@@ -42,7 +42,7 @@ Allow voting with cloud points
 
 This is your chance to discuss your proposal in the context of the whole design space. This is
 probably the most important section!
-
+  truely breaking away from centralized
 - Why is this design the best in the space of possible designs?
 - What other designs have been considered and what is the rationale for not choosing them?
 - What is the impact of not doing this?
